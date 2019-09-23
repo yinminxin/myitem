@@ -1,0 +1,10 @@
+{
+  "name": "api文档测试",
+  "version": "0.1.0",
+  "description": "apiDoc测试",
+  "apidoc": {
+    "title": "ymx测试文档",
+    "url" : "http://localhost:9001"
+  }
+}
+
